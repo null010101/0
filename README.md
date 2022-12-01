@@ -1,6 +1,9 @@
 # web-tools
 List of web tools that I commonly use.
 
+## Technologies caducation:
+- https://endoflife.date/
+
 ## Self hosted fonts:
 - https://gwfh.mranftl.com/fonts
 
