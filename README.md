@@ -7,6 +7,9 @@ List of web tools that I commonly use.
 ## Self hosted fonts:
 - https://gwfh.mranftl.com/fonts
 
+## Icons:
+- https://www.svgrepo.com/
+
 ## Color theme:
 - https://huemint.com/
 
